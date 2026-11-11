@@ -1,5 +1,4 @@
 {
-  "rootDirectory":"python-learn/python-learn",
   "version": 2,
   "builds": [
     { "src": "api/chat.js", "use": "@vercel/node" }
