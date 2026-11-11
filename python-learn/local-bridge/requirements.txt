@@ -1,0 +1,5 @@
+# 本地桥接使用 Python 标准库，无需额外安装
+# 若要本地运行课程中的 numpy/pandas/matplotlib 练习，请安装：
+numpy
+pandas
+matplotlib
